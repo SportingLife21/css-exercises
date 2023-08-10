@@ -1,0 +1,19 @@
+.Odd {
+    background-color: rgb(255, 192, 203); 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.paragraph {
+    font-size: 24px;
+}
+
+#secondLine {
+    color: rgb(0, 255, 255);
+    font-size: 36px;
+}
+
+#forthLine {
+    background-color: rgb(159, 238, 156);
+    font-size: 24px;
+    font-weight: bold;
+}
