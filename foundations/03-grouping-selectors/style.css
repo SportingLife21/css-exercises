@@ -1,0 +1,15 @@
+.wrongButton,
+.correctButton {
+    font-size: 28px;
+    font-family:  Helvetica, 'Times New Roman' sans-serif;
+}
+
+.correctButton {
+    background-color: hwb(120 10% 40%);
+    color: rgb(190, 235, 220);
+}
+
+.wrongButton {
+    background-color: rgb(255, 0, 0);
+    color: #f0f8ff;
+}
